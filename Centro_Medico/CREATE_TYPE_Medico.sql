@@ -1,0 +1,1 @@
+CREATE TYPE Medico From INT NOT NULL; 
